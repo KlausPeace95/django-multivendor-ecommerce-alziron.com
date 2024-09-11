@@ -9,7 +9,7 @@
 
  # What it does?
 
-### This multivendor e-commerce allows you to buy and also sell. You are able to just shop or start your own store, add products, sell them trough stripe's payment system and see the orders your store have done. Made through the course "Python Django Project Ecommerce Website With Multiple Vendors"
+### This multivendor e-commerce website called "Alziron.com", allows you to buy and also sell. You are able to just shop or start your own store, add products, sell them trough stripe's payment system and see the orders your store have done.
 
 
 ### Here are some screenshots of the website:
@@ -44,6 +44,7 @@
 
 ### * Install Python3, wich you can download trough the link https://www.python.org/downloads/.
 ### * Install in a python venv the dependencies needed for the project that are listed in the 'requirements.txt' file.
+###   You can install the dependencies by running    pip install -r requirements.txt
 ### * With the venv activated, open a terminal where the manage.py file is located and run the command 'python manage.py runserver' and access the page trough the port localhost:8000/.
 
 
