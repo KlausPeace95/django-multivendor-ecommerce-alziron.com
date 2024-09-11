@@ -15,17 +15,29 @@
 ### Here are some screenshots of the website:
 
 ### Homepage
-![homepage](https://user-images.githubusercontent.com/104523477/215153518-06b571fc-ef6c-4cd7-b1fc-01807dd808f5.png)
-
-### Product detail page
-![product-detail](https://user-images.githubusercontent.com/104523477/215157632-bcad8b25-b92a-402e-9eaa-149e6465fc2b.png)
-
+<img width="902" alt="home-alziron" src="https://github.com/user-attachments/assets/0ca284c2-0961-4f6d-b6ab-4c4bf0b83cfb">
 
 ### Vendor store page
-![vendor-store](https://user-images.githubusercontent.com/104523477/215153737-5d880888-7510-4c34-a849-d537b4ea4c5e.png)
+<img width="889" alt="vendor-store-alziron" src="https://github.com/user-attachments/assets/d700f97d-ed06-4b7f-9cc6-8b8c9d7699aa">
 
 ### Cart page
-![cart](https://user-images.githubusercontent.com/104523477/215153499-36850cfc-0a06-4448-a21e-ea18b14683c6.png)
+<img width="905" alt="cart-alziron" src="https://github.com/user-attachments/assets/f8b5a2f4-c78e-4dcb-82ef-eb4022146a82">
+
+
+### Checkout Summary Page
+<img width="907" alt="order-summary-alziron" src="https://github.com/user-attachments/assets/ca6e85fa-3992-4720-bddc-18768a49fe13">
+
+### Checkout Page
+<img width="817" alt="checkout-alziron" src="https://github.com/user-attachments/assets/07090578-c727-4916-87b6-cab349ba0faa">
+
+### Admin Dashboard Categories
+<img width="931" alt="admin-cat-alziron" src="https://github.com/user-attachments/assets/c09b9b29-02fd-4fc2-b0d3-f2618cd6d41a">
+
+### Admin Dashboard Products
+<img width="927" alt="admin-prod-alziron" src="https://github.com/user-attachments/assets/e3119b1c-1cf8-4028-84c9-699b29b8f0bd">
+
+
+
 
 
 # How to run?
